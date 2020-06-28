@@ -1,0 +1,8 @@
+dotnet new globaljson --sdk-version 3.1.101 --output AspNetCore3App/PartyInvitation
+dotnet new mvc --no-https --output AspNetCore3App/PartyInvitation --framework netcoreapp3.1
+dotnet new sln -o AspNetCore3App
+dotnet sln AspNetCore3App add AspNetCore3App/PartyInvitation
+
+git init
+git config --global user.name "Maurice Muoneke"
+git config --global user.email "obibibam@yahoo.com"

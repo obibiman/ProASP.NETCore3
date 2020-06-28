@@ -111,3 +111,4 @@ C:\DevSource\LowerOldRiver\Westlab\ProASP.NETCore3\AspNetCore3App\PartyInvitatio
 C:\DevSource\LowerOldRiver\Westlab\ProASP.NETCore3\AspNetCore3App\PartyInvitation\obj\Debug\netcoreapp3.1\PartyInvitation.csproj.CoreCompileInputs.cache
 C:\DevSource\LowerOldRiver\Westlab\ProASP.NETCore3\AspNetCore3App\PartyInvitation\obj\Debug\netcoreapp3.1\PartyInvitation.MvcApplicationPartsAssemblyInfo.cache
 C:\DevSource\LowerOldRiver\Westlab\ProASP.NETCore3\AspNetCore3App\PartyInvitation\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\DevSource\LowerOldRiver\Westlab\ProASP.NETCore3\AspNetCore3App\PartyInvitation\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListResponses.cshtml.g.cs
